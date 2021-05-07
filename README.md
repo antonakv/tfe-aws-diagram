@@ -1,1 +1,1 @@
-# tfe-aws
+# Diagram for Terraform Enterprise AWS installation
